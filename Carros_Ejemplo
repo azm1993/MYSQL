@@ -1,0 +1,1 @@
+CREATE DATABASE Carros; CREATE TABLE Carros.Carro ( N. de Chasis INT(18) UNSIGNED NOT NULL ) ENGINE = InnoDB; SELECT * FROM carro CREATE TABLE carros.Moto ( Fecha de Venta DATE NOT NULL , Modelo_de_Chasis INT NOT NULL , Nombre de Cliente TEXT CHARACTER SET utf16 COLLATE utf16_spanish2_ci NOT NULL , Serial_de_Venta INT NOT NULL ) ENGINE = InnoDB;
